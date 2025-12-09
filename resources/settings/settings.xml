@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings>
+    <setting propertyKey="@Properties.LeftMetric" title="Left Metric">
+        <settingConfig type="list">
+            <listEntry value="0">Heart Rate</listEntry>
+            <listEntry value="1">Steps</listEntry>
+            <listEntry value="2">Calories</listEntry>
+            <listEntry value="3">Battery</listEntry>
+        </settingConfig>
+    </setting>
+    <setting propertyKey="@Properties.RightMetric" title="Right Metric">
+        <settingConfig type="list">
+            <listEntry value="0">Heart Rate</listEntry>
+            <listEntry value="1">Steps</listEntry>
+            <listEntry value="2">Calories</listEntry>
+            <listEntry value="3">Battery</listEntry>
+        </settingConfig>
+    </setting>
+    <setting propertyKey="@Properties.MetricsOnTop" title="Show Metrics on Top">
+        <settingConfig type="boolean" />
+    </setting>
+</settings>

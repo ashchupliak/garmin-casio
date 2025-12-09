@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <properties>
+        <property id="LeftMetric" type="number">1</property>
+        <property id="RightMetric" type="number">3</property>
+        <property id="MetricsOnTop" type="boolean">false</property>
+    </properties>
+    <drawables>
+        <bitmap id="LauncherIcon" filename="drawables/launcher_icon.png" />
+        <bitmap id="Background" filename="drawables/background.png" />
+        <bitmap id="Digit0" filename="drawables/digit_0.png" />
+        <bitmap id="Digit1" filename="drawables/digit_1.png" />
+        <bitmap id="Digit2" filename="drawables/digit_2.png" />
+        <bitmap id="Digit3" filename="drawables/digit_3.png" />
+        <bitmap id="Digit4" filename="drawables/digit_4.png" />
+        <bitmap id="Digit5" filename="drawables/digit_5.png" />
+        <bitmap id="Digit6" filename="drawables/digit_6.png" />
+        <bitmap id="Digit7" filename="drawables/digit_7.png" />
+        <bitmap id="Digit8" filename="drawables/digit_8.png" />
+        <bitmap id="Digit9" filename="drawables/digit_9.png" />
+        <bitmap id="Colon" filename="drawables/colon.png" />
+        <bitmap id="LetterA" filename="drawables/letter_A.png" />
+        <bitmap id="LetterB" filename="drawables/letter_B.png" />
+        <bitmap id="LetterC" filename="drawables/letter_C.png" />
+        <bitmap id="LetterD" filename="drawables/letter_D.png" />
+        <bitmap id="LetterE" filename="drawables/letter_E.png" />
+        <bitmap id="LetterF" filename="drawables/letter_F.png" />
+        <bitmap id="LetterG" filename="drawables/letter_G.png" />
+        <bitmap id="LetterH" filename="drawables/letter_H.png" />
+        <bitmap id="LetterI" filename="drawables/letter_I.png" />
+        <bitmap id="LetterJ" filename="drawables/letter_J.png" />
+        <bitmap id="LetterL" filename="drawables/letter_L.png" />
+        <bitmap id="LetterM" filename="drawables/letter_M.png" />
+        <bitmap id="LetterN" filename="drawables/letter_N.png" />
+        <bitmap id="LetterO" filename="drawables/letter_O.png" />
+        <bitmap id="LetterP" filename="drawables/letter_P.png" />
+        <bitmap id="LetterR" filename="drawables/letter_R.png" />
+        <bitmap id="LetterS" filename="drawables/letter_S.png" />
+        <bitmap id="LetterT" filename="drawables/letter_T.png" />
+        <bitmap id="LetterU" filename="drawables/letter_U.png" />
+        <bitmap id="LetterV" filename="drawables/letter_V.png" />
+        <bitmap id="LetterW" filename="drawables/letter_W.png" />
+        <bitmap id="LetterY" filename="drawables/letter_Y.png" />
+        <bitmap id="DateDigit0" filename="drawables/digit_0_date.png" />
+        <bitmap id="DateDigit1" filename="drawables/digit_1_date.png" />
+        <bitmap id="DateDigit2" filename="drawables/digit_2_date.png" />
+        <bitmap id="DateDigit3" filename="drawables/digit_3_date.png" />
+        <bitmap id="DateDigit4" filename="drawables/digit_4_date.png" />
+        <bitmap id="DateDigit5" filename="drawables/digit_5_date.png" />
+        <bitmap id="DateDigit6" filename="drawables/digit_6_date.png" />
+        <bitmap id="DateDigit7" filename="drawables/digit_7_date.png" />
+        <bitmap id="DateDigit8" filename="drawables/digit_8_date.png" />
+        <bitmap id="DateDigit9" filename="drawables/digit_9_date.png" />
+        <bitmap id="IconCalories" filename="drawables/icon_calories.png" />
+        <bitmap id="IconSteps" filename="drawables/icon_steps.png" />
+        <bitmap id="IconBattery" filename="drawables/icon_battery.png" />
+        <bitmap id="IconHeart" filename="drawables/icon_heart.png" />
+    </drawables>
+</resources>
