@@ -110,9 +110,9 @@ class GarminCasioView extends WatchUi.WatchFace {
         var centerX = width / 2;
         var centerY = height / 2;
 
-        // Draw background image
+        // Draw background image scaled to screen size
         if (_background != null) {
-            dc.drawBitmap(0, 0, _background);
+            dc.drawScaledBitmap(0, 0, width, height, _background);
         }
 
         // Check if metrics should be on top (swapped layout)
